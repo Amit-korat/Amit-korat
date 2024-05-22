@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Amit-korat](https://github.com/Amit-korat)
 
-- 📝 I regularly write articles on [https://interesting-funds.blogspot.com/](https://interesting-funds.blogspot.com/)
+- 📝 I regularly write articles on [https://blog.technonite.com/](https://blog.technonite.com/)
 
 - 💬 Ask me about **Development, Innovation.**
 

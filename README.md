@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **amit.korat@outlook.com**
 
-- 📄 Know about my experiences [https://amitkorat.rf.gd/](https://amitkorat.rf.gd/)
+- 📄 Know about my experiences [https://amitkorat.technonite.com/](https://amitkorat.technonite.com/)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->

@@ -2,11 +2,13 @@
 
 
 <h1 align="center">Hi 👋, I'm Amit Korat</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">I am a passionate Full-Stack Web Developer specializing in mostly JavaScript, though my expertise extends beyond its confines. My journey into the world of software development began with a passion for problem-solving, which has driven me to explore and excel in this dynamic field.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amit-korat&label=Profile%20views&color=0e75b6&style=flat" alt="amit-korat" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amit-korat" alt="amit-korat" /></a> </p>
+
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 
 <p align="left"> <a href="https://twitter.com/amitkorat5" target="blank"><img src="https://img.shields.io/twitter/follow/amitkorat5?logo=twitter&style=for-the-badge" alt="amitkorat5" /></a> </p>
 
@@ -24,9 +26,6 @@
 
 - 📄 Know about my experiences [https://amitkorat.technonite.com/](https://amitkorat.technonite.com/)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

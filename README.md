@@ -16,8 +16,6 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence & Machine Learning.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Amit-korat](https://github.com/Amit-korat)
-
 - 📝 I regularly write articles on [https://blog.technonite.com/](https://blog.technonite.com/)
 
 - 💬 Ask me about **Development, Innovation.**

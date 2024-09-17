@@ -12,17 +12,19 @@
 
 <p align="left"> <a href="https://twitter.com/amitkorat5" target="blank"><img src="https://img.shields.io/twitter/follow/amitkorat5?logo=twitter&style=for-the-badge" alt="amitkorat5" /></a> </p>
 
+- 👨🏻‍💻 I created a Node.js package for backend development called [**apisculptify**](https://www.npmjs.com/package/apisculptify)
+
 - 🔭 I’m currently working on **Delivery Application**
 
 - 🌱 I’m currently learning **Artificial Intelligence & Machine Learning.**
 
-- 📝 I regularly write articles on [https://blog.technonite.com/](https://blog.technonite.com/)
+- 📝 I regularly write articles on [**blog.technonite.com**](https://blog.technonite.com/)
 
 - 💬 Ask me about **Development, Innovation.**
 
 - 📫 How to reach me **amit.korat@outlook.com**
 
-- 📄 Know about my experiences [https://amitkorat.technonite.com/](https://amitkorat.technonite.com/)
+- 📄 Know about my experiences [**amitkorat.technonite.com**](https://amitkorat.technonite.com/)
 
 
 <!-- <h3 align="left">Connect with me:</h3> -->

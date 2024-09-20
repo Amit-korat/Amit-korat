@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Amit Korat</h1>
 <h3 align="center">I am a passionate Full-Stack Web Developer specializing in mostly JavaScript, though my expertise extends beyond its confines. My journey into the world of software development began with a passion for problem-solving, which has driven me to explore and excel in this dynamic field.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amit-korat&label=Profile%20views&color=0e75b6&style=flat" alt="amit-korat" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amit-korat&label=Profile%20views&color=0e75b6&style=for-the-badge&base=700" alt="amit-korat" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amit-korat" alt="amit-korat" /></a> </p>
 

@@ -16,13 +16,13 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence & Machine Learning.**
 
-- 📝 I regularly write articles on [**blog.technonite.com**](https://blog.technonite.com/)
+- 📝 I regularly write articles on [**blog**](https://blog.technonite.com/)
 
 - 💬 Ask me about **Development, Innovation.**
 
 - 📫 How to reach me **amit.korat@outlook.com**
 
-- 📄 Know about my experiences [**Ctrl/Cmd + Click Here**](https://amitkorat.vercel.app/)
+- 📄 Know about my experiences <a href="https://amitkorat.vercel.app/" target="_blank">**Ctrl/Cmd + Click Here**</a>
 
 
 <!-- <h3 align="left">Connect with me:</h3> -->

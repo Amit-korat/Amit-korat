@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **amit.korat@outlook.com**
 
-- 📄 Know about my experiences [**amitkorat.technonite.com**](https://amitkorat.technonite.com/)
+- 📄 Know about my experiences [**Ctrl/Cmd + Click Here**](https://amitkorat.vercel.app/)
 
 
 <!-- <h3 align="left">Connect with me:</h3> -->

@@ -12,7 +12,7 @@
 
 - 👨🏻‍💻 I created a Node.js package for backend development called [**apisculptify**](https://www.npmjs.com/package/apisculptify)
 
-- 🔭 I’m currently working on **Delivery Application**
+- 🔭 I’m currently working on **Artificial Intelligence & LLM**
 
 - 🌱 I’m currently learning **Artificial Intelligence & Machine Learning.**
 
